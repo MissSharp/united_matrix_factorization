@@ -1,3 +1,8 @@
+# united_matrix_factorization
+Thanks to https://github.com/kdrl/GloVe-PyTorch and https://github.com/k-kawakami/embedding-evaluation
+
+
+
 # GloVe-PyTorch
 A simple PyTorch implementation for "Global Vectors for Word Representation".
 
@@ -22,5 +27,7 @@ print(most_similar(word_embeddings_array,word_to_index,index_to_word,"computer",
 ```
 
     [('software', 0.54145634), ('computers', 0.51864588), ('apple', 0.46997803), ('machines', 0.45792481), ('workstations', 0.43789768)]
+
+
 
 
